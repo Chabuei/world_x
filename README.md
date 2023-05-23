@@ -8,7 +8,7 @@ https://twitter.com/EishinIshida/status/1657430851825836033(映像バージョ�
 Three.jsとWebAssemblyを用いたアバター制御と自作当たり判定システム(※スマートフォンには対応していません)
 
 # Requirement
-ZIPファイルを解凍後、プロジェクトのメインディレクトリ(package.jsonが入っているフォルダ)に移動してnpm installを実行後、npm run devで実行できます。<br>
+ZIPファイルを解凍後、プロジェクトのメインディレクトリ(package.jsonが入っているフォルダ)に移動してnpm installを実行後、npm run devで実行できます。(初期ビルドには30秒ほどかかるのでご注意ください。)<br>
 
 Windows 11<br>
 npm 8.3.1<br>
